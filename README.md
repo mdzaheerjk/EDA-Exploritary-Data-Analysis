@@ -1,5 +1,8 @@
 # 📊 EDA - Exploratory Data Analysis
 
+<img src="https://towardsdatascience.com/wp-content/uploads/2022/01/1NMVDQFlGO6uLgEyFhLcrJQ-2048x1024.png" alt="Deep Learning Banner" width="1000" height="1000">
+
+
 Welcome to the **EDA-Exploratory Data Analysis** repository! 🚀
 
 This project provides interactive scripts and notebooks for performing in-depth exploratory data analysis on various datasets. Whether you're a beginner or a data enthusiast, this repo will help you uncover patterns, trends, and insights in your data. 🔍
